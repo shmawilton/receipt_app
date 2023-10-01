@@ -11,11 +11,12 @@ dependencies:
   flutter:
     sdk: flutter
   
-  esc_pos_printer: ^4.0.4
+  # esc_pos_printer: ^4.0.4
   intl: ^0.17.0
   cupertino_icons: ^1.0.2
   path_provider: ^2.0.7
   flutter_svg: ^0.22.0
+  pos_printer_manager: ^0.0.5
 
 dev_dependencies:
   flutter_test:
@@ -30,10 +31,13 @@ flutter:
         - asset: fonts/Roboto-Regular.ttf
         - asset: fonts/Roboto-Bold.ttf
           weight: 700
-        - asset: fonts/Inconsolata-Bold.ttf
+    - family: CourierPrime
+      fonts:
+        - asset: fonts/CourierPrime-Regular.ttf
+          weight: 400
+        - asset: fonts/CourierPrime-Bold.ttf
           weight: 700
-        - asset: fonts/Inconsolata-Light.ttf
-          weight: 300
+
           
 
   assets:

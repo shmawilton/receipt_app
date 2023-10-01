@@ -3,7 +3,8 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-  charset_converter
+  network_info_plus_windows
+  printing
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
