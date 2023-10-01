@@ -16,7 +16,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   path_provider: ^2.0.7
   flutter_svg: ^0.22.0
-  pos_printer_manager: ^0.0.5
+  # pos_printer_manager: ^0.0.5
 
 dev_dependencies:
   flutter_test:
