@@ -14,9 +14,12 @@ dependencies:
   # esc_pos_printer: ^4.0.4
   intl: ^0.17.0
   cupertino_icons: ^1.0.2
-  path_provider: ^2.0.7
+  path_provider: ^2.1.1
   flutter_svg: ^0.22.0
-  # pos_printer_manager: ^0.0.5
+  esc_pos_printer: ^4.1.0
+  flutter_widget_to_image: ^0.0.1
+  permission_handler: ^11.0.0
+  widgets_to_image: ^0.0.2
 
 dev_dependencies:
   flutter_test:
